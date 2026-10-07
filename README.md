@@ -6,4 +6,4 @@
 
 Link to project here [project](https://github.com/AXJAS/knapsack_problem/)
 
-![histogram](/images/histogram-example-2.png)
+![histogram](/images/histogram.png)
